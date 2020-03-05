@@ -1,0 +1,22 @@
+#header {
+	width: 100%;
+	font-size: 36px;
+	line-height: 48px;
+	background-color: #036fab;
+	color: white;
+	padding: 5px;
+}
+
+#content {
+	width: 100%;
+	position: relative;
+	background-color: #dddddd;
+	padding: 5px;
+}
+
+#footer {
+	padding: 5px;
+	background-color: navy;
+	width: 100%;
+	color: white
+}
